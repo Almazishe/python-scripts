@@ -72,6 +72,7 @@ class Player:
             return True
         return False
 
+
 if __name__ == '__main__':
 
     game = BingoGame()
